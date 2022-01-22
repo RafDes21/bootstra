@@ -1,0 +1,45 @@
+
+.navbar-brand img{
+        height: 50px;
+}
+img{
+    height: 560px;
+    background-size: cover;
+}
+.texto{
+    color: black;
+    text-shadow: 2px 2px 2px wheat;
+}
+h5{
+    font-size: 80px;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px brown;
+}
+.relax{
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.row{
+    background-color:coral;
+    margin: 0 !important;
+    background-image: url(/img/footer.jpg);
+    background-size: cover;
+}
+.venta{
+    border: 2px solid darkgrey;
+    box-sizing: border-box;
+    margin: 10px;
+}
+p{
+    padding-top: 10px;
+}
+.sub{
+    height: 50px;
+    padding-top: 15px;
+}
+b{
+    color: white;
+}
